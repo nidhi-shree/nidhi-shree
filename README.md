@@ -1,5 +1,5 @@
-[![MasterHead](https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg?w=900
-)]
+![MasterHead](https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg?w=900
+)
 <h1 align="center">Hi 👋, I'm Nidhishree</h1>
 <h3 align="center">An aspiring Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b95290d633090b0fde2185c3648f30dd1657e7dc895a&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">
