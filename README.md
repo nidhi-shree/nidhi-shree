@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nidhishree</h1>
 <h3 align="center">An aspiring Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b95290d633090b0fde2185c3648f30dd1657e7dc895a&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">
-I’m currently focused on building my skills in **Python, Artificial intelligence, react, javascript**
+I’m currently focused on building my skills in Python, Artificial intelligence, react, javascript
 
 - 📫 How to reach me **nnidhishree005@gmail.com**
 
