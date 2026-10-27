@@ -58,9 +58,3 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
-
-## ✨ Quote
-<p align="center">
-  <i>"Build. Learn. Repeat."</i>
-</p>
